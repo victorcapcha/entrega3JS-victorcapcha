@@ -152,7 +152,7 @@ th, td {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ffffff;
+    background-color: #331c25;
     padding: 10px;
 }
 
@@ -212,7 +212,7 @@ h2 {
 
 /* footer */
 footer div {
-    background-color: #58233d;
+    background-color: #331c25;
   }
 
   footer div p {
